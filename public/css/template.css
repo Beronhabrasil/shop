@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/10/2013, 22:23:54
+    Author     : Samuel
+*/
+
+#menu {
+    margin-top: 0px;
+}
+
+.no-margin {
+    margin:0px!important;
+}
+
+#wrapper, #sidebar {
+    min-height:500px;
+}
+
+.body-postagem {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.bordered {
+    border-bottom-color: rgb(212, 212, 212);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(212, 212, 212);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(212, 212, 212);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(212, 212, 212);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.titulo-postagem, .subtitulo-postagem {
+    margin: 0px;
+}
+
+.subtitulo-postagem {
+    color: #999;
+}
+
+.img-postagem, .img-destaque, .texto-curto-postagem {
+    height: 200px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.divider2 {
+    margin: 5px 0px 10px 0px;
+    border-top-color: #ccc;
+    border-bottom-color: #f2f2f2;
+}
